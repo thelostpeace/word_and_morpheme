@@ -1,0 +1,387 @@
+sys_yes	嗯 是 你 说
+sys_yes	嗯 是 啊
+sys_yes	能 的 麻 烦
+sys_yes	要 的 那
+chitchat	我 是 他 老 婆
+sys_yes	好 行 知 道
+chitchat	已 经 扣 了
+sys_yes	恩 恩
+sys_yes	ok 呢
+chitchat	你 是 谁 啊
+chitchat	哎 哪 个 啊
+sys_yes	我 好 的
+sys_yes	是 的 什 么 事 情
+chitchat	哪 边 的
+sys_no	没 有 房 产
+chitchat	我 是 他 妻 子
+chitchat	找 她 干 嘛
+sys_no	木 有
+sys_yes	对 的 干 啥
+sys_no	你 肯 定 打 错 了
+chitchat	舅 母
+sys_no	不 是 你 搞 错 了
+chitchat	哎 那 个 哈
+chitchat	不 在 我 名 下
+chitchat	我 是 工 商 局
+sys_yes	恩
+sys_yes	知 道 了 行 好
+sys_yes	是 好 好
+sys_yes	是 我 本 人
+sys_yes	OK 哈
+sys_yes	是 啊 有 什 么 事
+chitchat	你 那 里
+sys_no	没 有 时 间
+sys_yes	恩 我 是
+chitchat	就 我 本 人
+chitchat	公 司 职 员
+chitchat	小 生 意
+sys_yes	什 么 事 儿
+sys_yes	对 的 你 找 谁 呀
+sys_yes	找 我 有 什 么 事 吗
+sys_yes	行 的 哪
+sys_yes	嗯 是 怎 么 了
+chitchat	老 婆
+sys_yes	知 道 呢
+sys_yes	ok 额
+chitchat	开 农 场
+sys_yes	对 呀 有 啥 事 情
+chitchat	为 哪 的 呀
+chitchat	家 属
+chitchat	是 干 嘛 的
+sys_no	没 有 资 产
+chitchat	他 买 东 西 去 了
+chitchat	已 经 换 上 了 吧
+chitchat	喂 喂
+sys_yes	好 行 行
+chitchat	不 是 换 了 吗
+sys_yes	应 该 行 吧
+chitchat	为 谁 啊
+sys_no	打 错 电 话 了
+sys_yes	对 怎 么 啦
+sys_no	不 可 以 吧
+chitchat	为 哪 儿 啦
+sys_no	我 现 在 在 上 班 我 没 时 间 不 方 便 接 电 话
+sys_yes	要 得 呢
+sys_yes	行 啊 呢
+sys_no	不 行 哈
+sys_yes	嗯 对 啊
+sys_no	不 用 了
+chitchat	再 见
+sys_yes	没 有 错
+sys_yes	哦 我 还 了
+chitchat	办 什 么 的
+sys_yes	没 关 系
+sys_yes	好 嘞 再 见
+chitchat	你 哪 的 啦
+sys_yes	能 的 再 见
+chitchat	为 哪 个 啦
+chitchat	为 那 里 啊
+chitchat	您 那 里
+sys_yes	知 道 了 行 的
+sys_yes	我 是 本 人 你 找 谁
+sys_yes	知 道 哈
+sys_no	哪 有 保 险
+chitchat	哪 位 哪 位
+chitchat	已 经 交 过 去 了
+chitchat	下 午 换 过 了 哎
+chitchat	听 不 见 吗
+chitchat	你 什 么 啊
+chitchat	你 是 干 嘛 的
+sys_yes	搞 好 了 啊
+sys_yes	啊 晓 得
+sys_no	买 不 起 车
+chitchat	在 哪 里
+chitchat	声 音 太 轻
+chitchat	工 信 部
+chitchat	为 什 么 了
+sys_no	不 符
+sys_yes	好 行 唉
+sys_yes	对 啊 有 什 么 事 情
+sys_yes	好 嘞 呀
+chitchat	为 那 个 呀
+chitchat	哎 挂 了
+chitchat	早 上 就 把 钱 换 了
+sys_yes	恩 哦 哦 好
+sys_no	不 是 不 是 你 搞 错 了
+sys_yes	ok 麻 烦
+sys_yes	好 谢 谢
+chitchat	您 哪 的 啦
+sys_yes	是 我 干 嘛
+chitchat	哪 里
+chitchat	你 那 个 的
+sys_yes	唉 知 道
+sys_yes	嗯 是 有 什 么 事
+chitchat	哎 哪 哈 的
+chitchat	我 这 还 上 了
+chitchat	没 再 联 系
+chitchat	为 什 么 找 她
+sys_yes	行 啊 哈
+chitchat	搞 什 么
+sys_yes	对 啊 怎 么 了
+chitchat	你 找 谁 啊
+chitchat	手 机 不 是 我 的
+chitchat	再 打 投 诉 你 们
+sys_yes	嗯 行 的
+sys_yes	对 啊 了
+sys_yes	对 撒
+sys_yes	行 吧 再 见
+sys_yes	收 到
+chitchat	声 音 太 低
+chitchat	离 职
+sys_yes	可 以 谢 谢
+sys_yes	好 好 喂
+sys_no	没
+sys_yes	行 好 恩
+sys_no	错 了 吧
+chitchat	无 业 游 民
+chitchat	同 学
+sys_yes	行 好 啦
+chitchat	自 动 扣 过
+chitchat	喂 哪 位 了
+sys_no	找 错 人 了
+chitchat	表 兄
+chitchat	我 已 经 那 个 刚 刚 弄 了
+chitchat	您 哪 个 公 司
+sys_yes	是 呀
+chitchat	你 哪 哈 啦
+chitchat	哪 里
+sys_no	不 方 便 吧
+chitchat	你 们 那 是 哪
+sys_yes	对 啊 有 什 么 事
+sys_yes	哎 好 好
+sys_yes	好 得
+chitchat	您 们 是 哪 里
+sys_yes	嗯 对 对 对
+chitchat	要 投 诉 你
+sys_yes	你 说
+chitchat	需 要 再 联 系 咯
+sys_yes	呃 晓 得
+sys_yes	行 吧 了
+sys_yes	好 的 嗯
+sys_yes	正 是 在 下
+chitchat	再 说 一 句
+chitchat	已 经 还 了 的
+sys_yes	认 识
+sys_no	打 错 了
+sys_yes	对 呀 怎 么 了
+chitchat	不 会 先 查 再 打
+sys_yes	行 好 呢
+sys_yes	就 是 我 咋 了
+chitchat	孩 子 阿 姨
+sys_yes	好 好 哎
+chitchat	听 不 太 清 楚
+sys_yes	恩 对
+chitchat	我 不 是 交 了 吗
+sys_no	搞 错 了 没 这 个 人
+sys_yes	ok 啊
+sys_no	不 用 了 不 用 了 不 去 了
+chitchat	我 还 了
+chitchat	我 是 他 姐
+sys_yes	嗯 是 有 啥 事
+sys_yes	OK 呢
+sys_yes	你 有 事 吗
+chitchat	没 听 到
+sys_yes	行 好 行
+sys_no	哎 不 用
+sys_yes	我 是 本 人 什 么 事 你 说
+chitchat	说 话
+sys_yes	嗯 谢 谢
+sys_no	不 是 你 打 错 了 吧
+sys_yes	啊 好 再 见
+chitchat	哪 个 划 算
+chitchat	穷
+chitchat	是 哪 里
+sys_yes	好 的 呢
+sys_yes	我 知 道 了
+sys_no	不 是
+sys_yes	可 以 麻 烦
+sys_yes	啊 好 行
+sys_yes	是 呀 怎 么 啦
+sys_yes	是 的 唉
+chitchat	表 弟
+sys_yes	对 呢
+sys_yes	呃 好 好
+sys_no	没 汽 车
+sys_yes	我 行 行
+chitchat	刚 刚 说 了 什 么
+chitchat	你 哪 哈 哈
+chitchat	不 在
+sys_yes	行 对
+chitchat	你 哪 儿 的
+sys_yes	好 好 哦
+sys_yes	没 问 题
+sys_no	不 清 楚
+chitchat	你 找 谁
+chitchat	再 说 一 次
+chitchat	爸 爸
+sys_yes	好 对 啊
+sys_yes	对 啊 额
+sys_yes	是 啊 有 啥 事
+chitchat	是 啥 东 西
+sys_yes	是 我 没 错
+chitchat	喂 那 个 公 司
+sys_no	没 有 信 用 卡
+sys_yes	哦 对
+sys_yes	是 的 有 啥 事 情
+sys_yes	继 续 说
+chitchat	不 是 已 经 换 了
+chitchat	干 嘛
+chitchat	我 等 会 告 诉 他
+chitchat	麻 烦 再 说 一 次
+sys_yes	ok 嗯
+sys_yes	好 ok
+sys_yes	行 知 道
+sys_yes	好 嘞 麻 烦
+sys_yes	就 是 我 有 什 么 事 情
+chitchat	是 我 姐 妹
+chitchat	为 哪 里 了
+chitchat	还 过 了 的
+sys_no	不 好 哪
+chitchat	怎 么 啦
+chitchat	做 做 生 意
+chitchat	喂 哪 里 呀
+chitchat	哎 谁
+sys_yes	我 认 得 他
+chitchat	喂 那 个 的
+sys_yes	唉 好 嘞
+sys_no	打 错 电 话 了
+sys_yes	是 的
+chitchat	孩 子 的 奶 奶
+chitchat	更 好
+chitchat	我 是 他 妈 妈
+sys_yes	应 该 要 的
+sys_no	不 好 喂
+chitchat	待 业
+chitchat	干 啥
+chitchat	做 做 小 生 意
+sys_yes	OK 嗯
+sys_no	没 有 听 到
+chitchat	我 不 是 花 了 吗
+sys_yes	晓 得 哎
+sys_yes	好 好 啦
+chitchat	咋 了
+sys_yes	就 是 我 呀
+sys_no	不 在 我 名 下
+chitchat	是 他 同 事
+chitchat	为 哪 儿 啊
+sys_yes	行 啊 了
+sys_yes	行 吧 哎
+sys_yes	知 道 了 行 啊
+sys_yes	行 啊 那
+chitchat	号 码 已 经 换 了
+chitchat	哎 什 么 呀
+sys_yes	唉 ok
+sys_yes	行 的 吧
+sys_no	买 不 起 车
+chitchat	你 哪 的 了
+chitchat	打 工 族
+sys_yes	是 是 的
+chitchat	是 哪 的
+chitchat	110
+sys_yes	你 继 续
+sys_yes	嗯 好 再 见
+sys_yes	好 嘞 拜 拜
+sys_no	我 不 认 识
+chitchat	做 什 么
+chitchat	为 谁
+chitchat	我 是 他 丈 夫
+sys_yes	知 道 呃
+chitchat	工 人
+chitchat	哎 那 里 了
+sys_yes	嗯 是 我 本 人
+chitchat	大 伯
+sys_no	没 什 么 时 间
+chitchat	你 是
+chitchat	干 嘛
+chitchat	早 上 已 经 操 作 了
+sys_yes	已 经 还 上 了
+chitchat	大 嫂
+chitchat	老 乡
+chitchat	哎 那 里 哈
+sys_yes	嗯 我 是
+chitchat	再 来 说 一 遍 吧
+chitchat	喂 哪 位 哈
+chitchat	您 什 么 啊
+sys_yes	行 好 呀
+chitchat	哎 谁 呀
+chitchat	你 哪 的 呀
+sys_yes	有 事 吗 是 我
+sys_yes	是 啊 有 什 么 事
+sys_yes	啊 可 以
+chitchat	我 昨 天 不 是 还 进 去 了 吗
+sys_yes	是 呀 怎 么 了
+chitchat	为 哪 里 公 司
+chitchat	喂 哪 的 啊
+chitchat	他 到 超 市
+sys_no	没 有
+sys_no	没 兴 趣 没 时 间
+sys_yes	是 你 讲
+chitchat	哎 哪 个 了
+sys_yes	好 好
+chitchat	这 么 好
+chitchat	你 哪 的
+sys_yes	嗯 好 谢 谢
+chitchat	已 经 换 完
+chitchat	没 查 到 吗
+chitchat	新 闻 曝 光 记 者
+chitchat	你 那 个 啊
+chitchat	没 太 听 清 楚
+sys_yes	讲 吧
+sys_no	没 1
+chitchat	孩 子 家 长
+sys_no	没 有
+sys_yes	恩 你 讲
+chitchat	已 经 操 作 了
+sys_yes	啊 对 哪 位
+chitchat	什 么 事 儿
+sys_no	木 有
+sys_yes	行 的 哦
+chitchat	报 警
+sys_yes	要 得 的
+chitchat	我 花 了
+chitchat	蓝 领
+chitchat	您 谁 公 司
+sys_yes	嗯 行
+sys_yes	哎 没 问 题
+sys_yes	哦 好 拜 拜
+sys_yes	你 说 我 是
+sys_yes	听 明 白 了
+chitchat	表 姐
+sys_no	哎 不 考 虑
+chitchat	再 打 举 报 你
+sys_yes	嗯 ok
+sys_yes	嗯 好
+sys_yes	嗯 对 头 我 是 本 人
+chitchat	回 头 再 联 系
+chitchat	为 那 个 了
+sys_yes	咋 了 是 我
+chitchat	您 谁 呀
+sys_yes	行 好 的 好 好
+sys_no	不 想
+sys_no	没 钱 买 车
+chitchat	喂 喂 喂 喂
+sys_yes	知 道 了 知 道
+sys_yes	嗯 是 的 我 是 本 人
+sys_yes	好 的 我 知 道 了
+sys_no	你 打 错 了
+sys_yes	是 怎 么 啦
+sys_no	不 对
+chitchat	你 是 哪 一 个
+chitchat	您 哪 哈
+sys_yes	呃 ok
+sys_no	哦 不 考 虑
+chitchat	谁 呀
+chitchat	工 作 了
+sys_yes	可 以 呢
+sys_no	没 听 说 过 这 个 人
+sys_no	没 有 房
+sys_yes	对 的 哪
+chitchat	你 哪 个 啊
+sys_yes	安 排
+sys_yes	对 咋 了
+sys_no	现 在 没 空 啊
+chitchat	麻 烦 再 说 一 次
+sys_yes	哦 是 的
+chitchat	我 是 他 哥 哥
+chitchat	就 报 警
+sys_yes	是 的 你 哪 边
