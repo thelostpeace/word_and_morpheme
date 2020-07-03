@@ -82,7 +82,9 @@ epoch:33 steps:3160 best_valid_acc:0.9457364341085271
 ```
 
 **graphs**
-<img src=https://github.com/thelostpeace/word_and_morpheme/blob/master/img/epoch_acc.png?raw=true width=400>
+
+<img src=https://github.com/thelostpeace/word_and_morpheme/blob/master/img/epoch_acc.png?raw=true width=400></img>
+
 ![](https://github.com/thelostpeace/word_and_morpheme/blob/master/img/epoch_loss.png?raw=true)
 ![](https://github.com/thelostpeace/word_and_morpheme/blob/master/img/step_acc.png?raw=true)
 ![](https://github.com/thelostpeace/word_and_morpheme/blob/master/img/step_loss.png?raw=true)
