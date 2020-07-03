@@ -30,7 +30,7 @@ A classification is done with TextCNN with one model splitting words in morpheme
     "batch_size": 32,
     "sequence_length": 32,
     "save_model": "model/textcnn.bin",
-    "epoch": 30,
+    "epoch": 60,
     "save_step": 10,
     "embedding_size": 300,
     "embedding_droprate": 0.5,
@@ -75,10 +75,18 @@ Non-trainable params: 0
 **result**
 
 ```
-trained 30 epoches, best result saved
-epoch:24 steps:2290 best_valid_acc:0.9431524547803618
-	Loss: 0.0052(test)	|	Acc: 95.1%(test)
+trained 60 epoches, best result at epoch 33.
+
+epoch:33 steps:3160 best_valid_acc:0.9457364341085271
+    Loss: 0.0055(test)  |   Acc: 95.4%(test)
 ```
+
+**graphs**
+![]()
+![]()
+![]()
+![]()
+
 
 
 ### Result

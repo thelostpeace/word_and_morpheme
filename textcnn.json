@@ -13,7 +13,7 @@
     "batch_size": 32,
     "sequence_length": 32,
     "save_model": "model/textcnn.bin",
-    "epoch": 30,
+    "epoch": 60,
     "save_step": 10,
     "embedding_size": 300,
     "embedding_droprate": 0.5,
