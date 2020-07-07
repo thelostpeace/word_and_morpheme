@@ -1,3 +1,14 @@
+# -*- coding:utf-8 -*-
+import sys
+sys.path.append('tools/protocols')
+from common.ttypes import *
+from protocols.la.ttypes import *
+from protocols.la import LAService
+from thrift import Thrift
+from thrift.transport import TSocket
+from thrift.transport import TTransport
+from thrift.protocol import TBinaryProtocol
+
 import os
 pwd = os.getcwd()
 os.environ["NLTK_DATA"] = os.path.join(pwd, "contrib/nltk_data")
@@ -51,6 +62,38 @@ class Tokenizer:
                 seq += c
 
         return self.tokenizer(seq)
+
+class LATokenizer:
+    '''
+        LA tokenizer
+    '''
+    def __init__(self):
+        self.server = "not provided"
+        self.port = 11111
+        transport = TSocket.TSocket(self.server, self.port)
+        self.transport = TTransport.TBufferedTransport(transport)
+        protocol = TBinaryProtocol.TBinaryProtocol(self.transport)
+        self.client = LAService.Client(protocol)
+
+    def tokenize(self, query):
+        self.transport.open()
+        request = LARequest()
+        request.query = query
+        request.user_info = UserInfo()
+        request.user_info.key = "test_key"
+        request.user_info.query_id = "test_queryid"
+        request.user_info.device_id = "test_deviceid"
+        request.parse_time_switch = 0
+
+        response = self.client.process(request)
+        self.transport.close()
+
+        tokens = []
+        for token in response.tokens:
+            tokens.append(token.term)
+
+        return tokens
+
 
 '''
 if __name__ == '__main__':
